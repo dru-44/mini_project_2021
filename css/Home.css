@@ -1,9 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 body {
     background-image: url('../images/homeBackground.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
 }
-ul {
+/*ul {
 	border-radius: 25px;
     height: fit-content;
     width: 100%;
@@ -13,7 +17,7 @@ ul {
   backdrop-filter: blur(10px);  
 	align-items: center;
 	padding: 0 0px;
-    margin: 50px 0 0 0;
+    margin: 0 0 0 0;
 }
 li {
     list-style: none;
@@ -26,4 +30,9 @@ li {
     cursor: pointer;
     white-space: nowrap;
 
+}*/
+
+.NavBar{
+	background-color: #04407e;
+	height:70px;
 }
