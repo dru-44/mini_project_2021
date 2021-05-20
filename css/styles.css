@@ -3,6 +3,7 @@ body {
 	background: #E5E5E5; 
 }
 
+
 .e1_4 { 
 	overflow:hidden;
 	border:1px solid rgba(0, 0, 0, 1);
@@ -13,6 +14,17 @@ body {
 	height:2442px;
 	position:absolute;
 }
+
+.navigationBar { 
+	background-color:rgba(245.00000059604645, 225.00000178813934, 52.000000700354576, 1);
+	border: radius 5px;
+	width:100%;
+	height:90px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+
 .e10_16 { 
 	background-color:rgba(198.00000339746475, 227.00000166893005, 173.00000488758087, 1);
 	width: 100%;;
@@ -148,13 +160,7 @@ body {
 	font-size:21px;
 	letter-spacing:0;
 }
-.e25_290 { 
-	width:100%;
-	height:203.3000030517578px;
-	position:absolute;
-	left:0px;
-	top:0px;
-}
+
 .e10_2 { 
 	width:1440px;
 	height:56px;
@@ -165,22 +171,15 @@ body {
 	background-repeat:no-repeat;
 	background-size:cover;
 }
-.e10_6 { 
-	background-color:rgba(245.00000059604645, 225.00000178813934, 52.000000700354576, 1);
-	width:100%;
-	height:93px;
-	position:absolute;
-	left:0px;
-	top:0px;
-	border: radius 5px;
-}
+
 .e10_7 { 
+	z-index: 5;
 	width:147px;
 	height:121.30000305175781px;
 	position:absolute;
 	left:49px;
 	top:0px;
-	background-image:url(images/rectangle_7.png);
+	background-image:url('images/rectangle_7.png');
 	background-repeat:no-repeat;
 	background-size:cover;
 }
