@@ -143,7 +143,7 @@ header{
 .hero{
     width: 100%;
     height: 100vh;
-    background: url("/images/1295649.jpg") center no-repeat;
+    background: url("https://cdn.glitch.com/790fed21-1c10-4f77-a813-dad7e32da152%2F1295649.jpg?v=1621494965783") center no-repeat;
     background-size: cover;
     display: flex;
     align-items: center;
@@ -318,7 +318,7 @@ h5{
 
 /* Tasteful */
 .tasteful-recipes{
-    background: url("/images/wp5204110-minimal-nature-wallpapers.jpg") center no-repeat;
+    background: url("https://cdn.glitch.com/790fed21-1c10-4f77-a813-dad7e32da152%2Fwp5204110-minimal-nature-wallpapers.jpg?v=1621494992037") center no-repeat;
     background-size: cover;
 }
 .between{
@@ -341,7 +341,7 @@ h5{
 
 /* the perfect blend  */
 .perfect-blend{
-    background: url("/images/wp4892354-4k-minimal-wallpapers.jpg") center no-repeat;
+    background: url("https://cdn.glitch.com/790fed21-1c10-4f77-a813-dad7e32da152%2Fwp4892354-4k-minimal-wallpapers.jpg?v=1621494990825") center no-repeat;
     background-size: cover;
 }
 
